@@ -1,4 +1,9 @@
-good
-morning
-world!
-
+[
+{
+"First name" : "Kateryna",
+"Last name" : "Morhun",
+"Age" : "34",
+"Pets" : "Seven",
+"Future salary" : "1000$+"
+}
+]
