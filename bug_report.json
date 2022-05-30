@@ -1,18 +1,18 @@
 [
    {
-     "Summary" : "Enemy collision is missing in specific location"
-      "Components" : "combat"
-      "Labels" : "collision, combat"
+     "Summary" : "Enemy collision is missing in specific location",
+      "Components" : "combat",
+      "Labels" : "collision, combat",
    
       "Steps to reproduce" : [
                              "1. Boot the title",
                              "2. Start the match",
                              "3. Shoot on enemy"
                               ],
-     "Description" : "When shooting the enemy using any weapon collision is missing. The issue is present in specific location. Recording, saves, logs, screenshot are attached"
-     "Severity" : "high"
-     "Probability" : "medium"
-     "Reproducebility" : "5/5"
+     "Description" : "When shooting the enemy using any weapon collision is missing. The issue is present in specific location. Recording, saves, logs, screenshot are attached",
+     "Severity" : "high",
+     "Probability" : "medium",
+     "Reproducebility" : "5/5",
      "Platform" : "PS4 Pro"
    }
 ]
